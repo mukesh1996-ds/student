@@ -19,4 +19,4 @@ From my observation we can see that there are 8 different columns namely gender'
 5. Create a barplot and check who have secured more marks compare to male or female
 6. create a pie chart to know what percentage of parent eduction is 
 7. create a bar plot and check math score with respect to parental education
-
+8. Check the marks based on course

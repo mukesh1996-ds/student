@@ -1,4 +1,4 @@
-# student test 
+# Marks secure 
 
 From my observation we can see that there are 8 different columns namely gender', 'race/ethnicity', 'parental level of education', 'lunch','test preparation course', 'math score', 'reading score','writing score' and this whole dataset is about how the student preform durning there course.
 
